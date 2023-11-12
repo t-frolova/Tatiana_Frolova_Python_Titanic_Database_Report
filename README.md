@@ -1,4 +1,4 @@
-# Tatiana_Frolova_Python_Titanic_Database_Report
+# Titanic Database Analysis and Report In Python
 ### Data Analysis Titanic Database
 #### Questions:
 
